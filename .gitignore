@@ -1,0 +1,23 @@
+# Datasets
+dino_dataset/
+**/dino_dataset/
+
+dataset_raw/
+**/dataset_raw/
+
+
+dino_dataset2/
+**/dino_dataset2/
+# Ultralytics outputs
+runs/
+# Local recordings
+recordings/
+
+yolov8n.pt
+
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
