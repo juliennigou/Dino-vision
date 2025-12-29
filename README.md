@@ -8,8 +8,6 @@ Un petit projet “fun” : un bot qui joue au jeu **Chrome Dino** en détectant
 
 ## 🎬 Démo
 
-> Ajoute ici ta vidéo (GIF / MP4 / lien YouTube / Loom)
-
 ![Demo](assets/demo.gif)
 
 
